@@ -1,5 +1,5 @@
 const sgMail = require('@sendgrid/mail');
-sgMail.setApiKey("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");
+sgMail.setApiKey("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX");
 const msg = {
   to: 'test@gmail.com',
   from: 'Guide Father <service.b@blog.guidefather.in>',
